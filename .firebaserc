@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "need-for-speed-cities"
+  },
+  "targets": {
+    "need-for-speed-cities": {
+      "hosting": {
+        "chnvsblr": [
+          "chennai-vs-bengaluru"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
